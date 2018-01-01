@@ -1,0 +1,13 @@
+.grid{
+  display: grid;
+  width: 550px;
+  height: 550px;
+  border:solid 2px #444;
+}
+.box{
+  background-color: red;
+  border: 1px solid white;
+}
+.boxTouched{
+  background-color: blue;
+}
